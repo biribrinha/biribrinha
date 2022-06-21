@@ -1,4 +1,4 @@
-### Julia Oliveira Bergman 👋
+                                                                  ###    <h1> ✨ Julia Oliveira Bergman ✨ </h1>
 
 ### Sobre mim ✨
 
