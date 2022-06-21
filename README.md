@@ -13,6 +13,6 @@ Gosto de juntar amigos da área pra estudarmos desenvolvimento web juntos e pass
 
 No meu tempo livre gosto de ilustrar e estudar libras. 
 
-### Skills
+### Skills 💫
 
 Habilidades em Figma, HTML5, CSS3, Adobe Illustrator, ReactJs, Github, Postman, Javascript, SQL Server, Scrum e Trello.
