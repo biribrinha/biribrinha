@@ -1,6 +1,6 @@
 ### Julia Oliveira Bergman 👋
 
-### Sobre mim
+### Sobre mim ✨
 
 Meu primeiro contato com tecnologia foi com o curso de fullstack developer pelo SENAI informática, e foi ali que começou minha jornada na área de desenvolvimento, foi no front-end que eu me encontrei.
 Fui me aprofundando nos conhecimentos de UI/UX e questões sobre acessibilidade fazendo o curso da estação hack. 
