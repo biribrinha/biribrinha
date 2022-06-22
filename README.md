@@ -1,6 +1,4 @@
 <h1> ✨ Julia Oliveira Bergman ✨  </h1>
-
- ![Alt Text](https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif)
 
 <h3 align="left">Entre em contato comigo:</h3>
