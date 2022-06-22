@@ -1,4 +1,4 @@
-<h1> ✨ Julia Oliveira Bergman ✨ </h1>
+<h1> ✨ Julia Oliveira Bergman ✨  ![Alt Text](https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif) </h1>
 
 
 ![Alt Text](https://media.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif)
