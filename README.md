@@ -28,4 +28,4 @@ Habilidades em Figma, HTML5, CSS3, Adobe Illustrator, ReactJs, Github, Postman, 
 <a href="https://linkedin.com/in/julia-bergman//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julia-bergman/" height="30" width="40" /></a>
 </p>
 
-![Alt Text](https://media.giphy.com/media/mxGvmj6jYfuVNrdZCl/giphy.gif)
+![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
