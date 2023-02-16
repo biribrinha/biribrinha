@@ -13,9 +13,6 @@ Tenho uma paixão pelo visual e da importância que o front-end leva junto da en
 
 Muito do conhecimento que adquiri na construção da minha carreira até agora teve suporte da comunidade dev, pra mim, o trabalho em grupo faz total diferença na produção. 
 
-Gosto de juntar amigos da área pra estudarmos desenvolvimento web juntos e passar todo conhecimento que tenho :)
-
-No meu tempo livre gosto de ilustrar e estudar libras. 
 
 ### Skills 💫
 
