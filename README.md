@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Atualmente trabalho com Laravel<br>👯 Muito interessada por UI/UX<br>🌱aprendendo mais sobre React, Redux e consumo de APi atualmente <br>⚡ Ilustradora nas horas vagas
+🔭 Atualmente trabalho com Laravel<br>👯 Muito interessada por UI/UX<br>🌱aprendendo mais sobre React e consumo de APi atualmente <br>⚡ Ilustradora nas horas vagas
 
 
 ## 🌐 Entre em contato comigo:
