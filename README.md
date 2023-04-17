@@ -1,5 +1,5 @@
 # Opa, beleza?
-<br>🔭 Atualmente trabalho com UI e UX <br><br>🌱aprendendo mais sobre React e consumo de APi atualmente <br>⚡ Ilustradora nas horas vagas
+<br>🌱aprendendo mais sobre React e consumo de APi atualmente <br>⚡ Ilustradora nas horas vagas<br>🔭 Atualmente trabalho com UI e UX <br>
 
 
 ## 🌐 Entre em contato comigo:
