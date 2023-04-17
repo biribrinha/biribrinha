@@ -1,8 +1,9 @@
 # Opa, beleza?
+## Me chamo Julia :)
 <br>🔭 Atualmente trabalho com UI e UX <br> 🌱aprendendo mais sobre React e consumo de APi atualmente <br>⚡ Ilustradora nas horas vagas <br>
 
 
-## 🌐 Entre em contato comigo:
+# 🌐 Entre em contato comigo:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/julia-bergman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julia-bergman/" height="30" width="40" /></a>
 </p>
