@@ -1,6 +1,5 @@
 # Opa, beleza?
-## Me chamo Julia :)
-<br>🔭 Atualmente trabalho com UI e UX <br> 🌱aprendendo mais sobre React e consumo de APi atualmente <br>⚡ Ilustradora nas horas vagas <br>
+<br>🔭 Atualmente trabalho com UI e UX <br> 🌱aprendendo mais sobre React e consumo de APi <br>⚡ Ilustradora nas horas vagas <br>
 
 
 # 🌐 Entre em contato comigo:
@@ -20,7 +19,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Biribrinha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
