@@ -1,5 +1,5 @@
 # Opa, beleza?
-<br>🔭 Atualmente trabalho com Desenvolvimento Front-end e UI/UX design na aprenda na nuvem <br> 🌱aprendendo mais sobre React e consumo de APi <br>⚡ Ilustradora nas horas vagas <br>
+<br> :magic_wand: Atualmente trabalho com Desenvolvimento Front-end e UI/UX design na aprenda na nuvem <br> :dart: Aprendendo mais sobre React e consumo de APi <br> :art: Ilustradora nas horas vagas <br>
 
 
 # 🌐 Entre em contato comigo:
