@@ -1,4 +1,4 @@
-# Oie! Beleza? <br> Me chamo Julia e sou Desenvolvedora Frontend e Designer de UI/UX
+# Oie! Beleza? <br> Me chamo Julia e sou Product owner, Desenvolvedora Frontend e Designer de UI/UX!
 
 <br> :magic_wand: Atualmente trabalho com Desenvolvimento Front-end e UI/UX design na aprenda na nuvem <br> :dart: Aprendendo mais sobre React e consumo de APi <br> :art: Ilustradora nas horas vagas <br>
 
